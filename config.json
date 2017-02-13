@@ -1,0 +1,10 @@
+{
+    "sftp"       : {
+        "host"       : "127.0.0.1",
+        "port"       : 50000,
+        "username"   : "username",
+        "password"   : "password",
+        "remotePath" : "/path/on/remote/server"
+    },
+    "localPath"  : "C:\\path\\on\\local\\machine"
+}

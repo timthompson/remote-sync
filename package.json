@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "remote-sync",
+  "version": "1.0.0",
+  "description": "Keeps local and remote environments in sync",
+  "main": "remote-sync.js",
+  "dependencies": {
+    "chokidar": "^1.6.0",
+    "nconf": "^0.8.4",
+    "ssh2": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Thompson",
+  "license": "ISC"
+}
